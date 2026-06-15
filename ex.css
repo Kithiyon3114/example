@@ -1,1 +1,5 @@
-creates ex.css file
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
